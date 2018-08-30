@@ -1,0 +1,14 @@
+C:\Users\Betsayda\Desktop\files\CAPSTONE\CapstoneSIMS\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Betsayda\Desktop\files\CAPSTONE\CapstoneSIMS\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Betsayda\Desktop\files\CAPSTONE\CapstoneSIMS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Betsayda\Desktop\files\CAPSTONE\CapstoneSIMS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Betsayda\Desktop\files\CAPSTONE\CapstoneSIMS\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Betsayda\Desktop\files\CAPSTONE\CapstoneSIMS\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Betsayda\Desktop\files\CAPSTONE\CapstoneSIMS\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Betsayda\Desktop\files\CAPSTONE\CapstoneSIMS\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Betsayda\Desktop\files\CAPSTONE\CapstoneSIMS\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Betsayda\Desktop\files\CAPSTONE\CapstoneSIMS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Betsayda\Desktop\files\CAPSTONE\CapstoneSIMS\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Betsayda\Desktop\files\CAPSTONE\CapstoneSIMS\DataAccess\obj\Debug\DataAccess.Migrations.InitialModel.resources
+C:\Users\Betsayda\Desktop\files\CAPSTONE\CapstoneSIMS\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+C:\Users\Betsayda\Desktop\files\CAPSTONE\CapstoneSIMS\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
