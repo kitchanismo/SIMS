@@ -16,6 +16,7 @@ namespace DataAccess
         public AppDbContext()
             :base("name=AppDbContext")
         {
+            Database.SetInitializer<AppDbContext>(new DataInitializer());
         }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
